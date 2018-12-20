@@ -1,1 +1,2 @@
 # Equity-Statistical-Arbitrage
+Under the similar economic background, equities share the risk exposures, so they share the similar price movement. The equity price movements can be decomposed to major risk exposure, idiosyncratic risk and a slow price drift. We can assume idiosyncratic risk is mean-reverting and estimate the risk exposure of bundles of equities by principal components. If the difference between the theoretical price and real equity price exists, there will be some opportunities to arbitrage. 
